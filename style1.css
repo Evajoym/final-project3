@@ -1,0 +1,16 @@
+
+h1{
+    color:beige;
+    text-align: center;
+}
+body{
+    color:beige;
+}
+body {
+    background-image: url(img/mathias-reding-3GwOfh-VMgQ-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: Fixed;
+    height: 100%;
+}
